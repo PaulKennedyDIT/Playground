@@ -1,4 +1,0 @@
-Playground
-==========
-
-Experimental Playground
